@@ -13,7 +13,7 @@
 	<artifactId>webflux-mongo-poc</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>webflux-mongo-poc</name>
-	<description>Demo project for Webflux with spring boot</description>
+	<description>Demo project for Webflux with spring boot and mongodb </description>
 	<properties>
 		<java.version>1.8</java.version>
 		<org.mapstruct.version>1.3.1.Final</org.mapstruct.version>
